@@ -1,0 +1,5 @@
+{
+  "name": "AutoCount - Controle de Estoque",
+  "description": "Sistema de contagem automática de itens em racks industriais utilizando processamento de imagem e IA.",
+  "requestFramePermissions": ["camera"]
+}
